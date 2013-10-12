@@ -1,0 +1,3 @@
+creating elasticcache:
+good: can provide an existing redis snapshot
+bad: soooo slow.
