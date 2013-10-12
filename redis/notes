@@ -1,1 +1,10 @@
 ec2 doesn't have make, gcc pre-installed. lol
+
+ctrl-c doesn't work on ec2..
+
+
+set security group permission to ALL for inbound
+run redis-server on one ec2
+run redis-cli on another ec2
+cli can talk to ser now
+but the client on my laptop can't talk to the server? vpc wtf?
