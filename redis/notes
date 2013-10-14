@@ -8,3 +8,11 @@ run redis-server on one ec2
 run redis-cli on another ec2
 cli can talk to ser now
 but the client on my laptop can't talk to the server? vpc wtf?
+
+
+test cases:
+1) a simple counter	
+2) word count
+   dictionary<string, int>
+3) leaderboard
+   skip list <score, name>
