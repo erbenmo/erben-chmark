@@ -1,0 +1,17 @@
+local - redis on ec2
+~/Documents/Learning++/erben-chmark/redis python counter.py 
+python counter.py 
+2013-10-13 23:18:30.302529
+1
+501
+2013-10-13 23:18:44.802906
+
+
+another ec2 - redis on ec2
+ubuntu@ip-172-31-22-92:~$ python counter.py 
+2013-10-14 06:18:13.360318
+1
+501
+2013-10-14 06:18:13.531436
+
+

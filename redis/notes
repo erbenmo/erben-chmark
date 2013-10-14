@@ -16,3 +16,7 @@ test cases:
    dictionary<string, int>
 3) leaderboard
    skip list <score, name>
+
+
+** Amazon ElastiCache Nodes, deployed within a VPC, can never be accessed from the Internet or from EC2 Instances outside the VPC.
+
